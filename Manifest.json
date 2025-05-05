@@ -1,0 +1,9 @@
+{
+  "name": "TestWidget",
+  "require": ["TestWidget/TestWidget"],
+  "description": "A sample widget hosted on GitHub Pages",
+  "category": "Custom Widgets",
+  "title": "TestWidget",
+  "version": "1.0",
+  "autoLoad": true
+}
